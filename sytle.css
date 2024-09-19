@@ -1,0 +1,34 @@
+html
+{
+    background: lightgray;
+    text-align: center;
+}
+h1
+{
+    color: green;
+    text-align: center;
+}
+h2
+{
+    color: rebeccapurple;
+}
+h4
+{
+    color: rgb(255, 116, 2);
+}
+.star {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px;
+}
+ul {
+    list-style-position: inside; /* Moves the bullets closer to the text */
+    padding-left: 0; /* Removes default padding */
+}
+
+li {
+    margin-left: 0; /* Ensures the text aligns properly */
+}
+
+
